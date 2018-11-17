@@ -1,0 +1,400 @@
+liri-command = movie-this
+liri-command = spotify-this-song
+liri-command = spotify-this-song
+________________________________________________
+Artist: MihTy
+Song title: The Light
+Preview song: Song preview is not available for this song.
+Album: The Light
+________________________________________________
+________________________________________________
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Harry Styles
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Love U Better (feat. Lil Wayne & The-Dream)
+Preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Beach House 3
+________________________________________________
+________________________________________________
+Artist: Jeremih
+Song title: Impatient
+Preview song: Song preview is not available for this song.
+Album: Late Nights: The Album
+________________________________________________
+________________________________________________
+Artist: Mac Miller
+Song title: Cinderella (feat. Ty Dolla $ign)
+Preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Divine Feminine
+________________________________________________
+________________________________________________
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Sign (US Album) [Remastered]
+________________________________________________
+________________________________________________
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Sign of the Times
+________________________________________________
+________________________________________________
+Artist: Coldplay
+Song title: Warning Sign
+Preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: A Rush Of Blood To The Head
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Droptop in the Rain (feat. Tory Lanez)
+Preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Beach House 3
+________________________________________________
+________________________________________________
+Artist: Lil Wayne
+Song title: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Suicide Squad: The Album
+________________________________________________
+________________________________________________
+Artist: Juicy J
+Song title: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+________________________________________________
+________________________________________________
+Artist: The Game
+Song title: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+Preview song: https://p.scdn.co/mp3-preview/9c69bc8673b0babe31f2d75c6579d368d2093531?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+________________________________________________
+________________________________________________
+Artist: Chance the Rapper
+Song title: Blessings
+Preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Coloring Book
+________________________________________________
+________________________________________________
+Artist: E-40
+Song title: One Night
+Preview song: Song preview is not available for this song.
+Album: The Gift Of Gab
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Darkside (with Ty Dolla $ign & Future feat. Kiiara)
+Preview song: https://p.scdn.co/mp3-preview/9f847c22264e3b16f86f66119910e164ba5da992?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Darkside (with Ty Dolla $ign & Future feat. Kiiara) [From Bright: The Album]
+________________________________________________
+________________________________________________
+Artist: Quality Control
+Song title: Movin’ Up
+Preview song: Song preview is not available for this song.
+Album: Quality Control: Control The Streets Volume 1
+________________________________________________
+________________________________________________
+Artist: The Front Bottoms
+Song title: Peace Sign
+Preview song: https://p.scdn.co/mp3-preview/c91a3db97ad1753447f1588123d9234adac743d2?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Going Grey
+________________________________________________
+________________________________________________
+Artist: LANY
+Song title: Sign Of The Times - Spotify Studios NYC
+Preview song: Song preview is not available for this song.
+Album: Spotify Singles
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview song: https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+________________________________________________
+liri-command = spotify-this-song
+________________________________________________
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Harry Styles
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Love U Better (feat. Lil Wayne & The-Dream)
+Preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Beach House 3
+________________________________________________
+________________________________________________
+Artist: MihTy
+Song title: The Light
+Preview song: Song preview is not available for this song.
+Album: The Light
+________________________________________________
+________________________________________________
+Artist: Jeremih
+Song title: Impatient
+Preview song: Song preview is not available for this song.
+Album: Late Nights: The Album
+________________________________________________
+________________________________________________
+Artist: Harry Styles
+Song title: Sign of the Times
+Preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Sign of the Times
+________________________________________________
+________________________________________________
+Artist: Ace of Base
+Song title: The Sign
+Preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Sign (US Album) [Remastered]
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Droptop in the Rain (feat. Tory Lanez)
+Preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Beach House 3
+________________________________________________
+________________________________________________
+Artist: Mac Miller
+Song title: Cinderella (feat. Ty Dolla $ign)
+Preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Divine Feminine
+________________________________________________
+________________________________________________
+Artist: Lil Wayne
+Song title: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Suicide Squad: The Album
+________________________________________________
+________________________________________________
+Artist: Quality Control
+Song title: Movin’ Up
+Preview song: Song preview is not available for this song.
+Album: Quality Control: Control The Streets Volume 1
+________________________________________________
+________________________________________________
+Artist: Coldplay
+Song title: Warning Sign
+Preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: A Rush Of Blood To The Head
+________________________________________________
+________________________________________________
+Artist: Chance the Rapper
+Song title: Blessings
+Preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Coloring Book
+________________________________________________
+________________________________________________
+Artist: The Game
+Song title: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+Preview song: https://p.scdn.co/mp3-preview/9c69bc8673b0babe31f2d75c6579d368d2093531?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+________________________________________________
+________________________________________________
+Artist: Juicy J
+Song title: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Darkside (with Ty Dolla $ign & Future feat. Kiiara)
+Preview song: https://p.scdn.co/mp3-preview/9f847c22264e3b16f86f66119910e164ba5da992?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Darkside (with Ty Dolla $ign & Future feat. Kiiara) [From Bright: The Album]
+________________________________________________
+________________________________________________
+Artist: E-40
+Song title: One Night
+Preview song: Song preview is not available for this song.
+Album: The Gift Of Gab
+________________________________________________
+________________________________________________
+Artist: The Front Bottoms
+Song title: Peace Sign
+Preview song: https://p.scdn.co/mp3-preview/c91a3db97ad1753447f1588123d9234adac743d2?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Going Grey
+________________________________________________
+________________________________________________
+Artist: Ty Dolla $ign
+Song title: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview song: https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+________________________________________________
+________________________________________________
+Artist: LANY
+Song title: Sign Of The Times - Spotify Studios NYC
+Preview song: Song preview is not available for this song.
+Album: Spotify Singles
+________________________________________________
+liri-command = movie-this
+________________________________________________
+Movie Title: Jaws
+Release Date: 1975
+IMDB Rating: undefined
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+________________________________________________
+liri-command = movie-this
+________________________________________________
+Movie Title: Jaws
+Release Date: 1975
+IMDB Rating: undefined
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+________________________________________________
+liri-command = concert-this
+________________________________________________
+Venue Name: The Forum
+Venue Location: Los Angeles, CA, United States
+Concert Date: 2018-10-16T19:00:00
+________________________________________________
+liri-command = do-what-it-says
+"I Want it That Way"
+________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Hits--Chapter One
+________________________________________________
+________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Millennium
+________________________________________________
+________________________________________________
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Covers Part IV
+________________________________________________
+________________________________________________
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: I Want It That Way
+________________________________________________
+________________________________________________
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Poodle Hat
+________________________________________________
+________________________________________________
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Beautiful Dreams
+________________________________________________
+________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: 90 Sweet 90s Hits!
+________________________________________________
+________________________________________________
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+________________________________________________
+________________________________________________
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+________________________________________________
+________________________________________________
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Cover Sessions, Vol. 2
+________________________________________________
+________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: NOW That's What I Call 90s Pop
+________________________________________________
+________________________________________________
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: The Essential "Weird Al" Yankovic
+________________________________________________
+________________________________________________
+Artist: Scary Pockets
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Nu Funk
+________________________________________________
+________________________________________________
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Selfies on Kodachrome
+________________________________________________
+________________________________________________
+Artist: #90s Update
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: #90s Update
+________________________________________________
+________________________________________________
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: PMJ Is For Lovers: The Love Song Collection
+________________________________________________
+________________________________________________
+Artist: Landon Austin & Julia Sheer
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: I Want It That Way
+________________________________________________
+________________________________________________
+Artist: Steel Panther
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: I Want It That Way
+________________________________________________
+________________________________________________
+Artist: Jay Smith
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/bc65890577b72315e413e59acd4c3dbac09fed57?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: Jay Smith
+________________________________________________
+________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=eabd4bd156e6429b89cbd85bcb6a36fe
+Album: NKOTBSB
+________________________________________________
+liri-command = concert-this
+________________________________________________
+Venue Name: Tacoma Dome
+Venue Location: Tacoma, WA, United States
+Concert Date: 2018-11-01T19:00:00
+________________________________________________
